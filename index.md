@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 <img title="" src="resources/cairn.png" alt="." width="235" data-align="left">
 
 ![Static Badge](https://img.shields.io/badge/github-cairnmail-blue?logo=github)  
