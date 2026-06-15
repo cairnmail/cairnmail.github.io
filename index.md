@@ -8,7 +8,7 @@
 
 
 
-<img title="" src="file:///C:/Users/Admin/Downloads/cairn.png" alt="." width="235" data-align="left">
+<img title="" src="resources/cairn.png" alt="." width="235" data-align="left">
 
 ![Static Badge](https://img.shields.io/badge/github-cairnmail-blue?logo=github)  
 
